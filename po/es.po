@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-06-13 17:48+0200\n"
-"PO-Revision-Date: 2011-02-15 18:39-0500\n"
+"PO-Revision-Date: 2011-02-16 16:27-0500\n"
 "Last-Translator: Steven Panek (Espreon) <Majora700@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -25,12 +25,12 @@ msgstr ""
 #. [era]: id=era_EOM_power_{ERA_OF_MYTHS_VERSION}
 #: Era_of_Myths/EOM_eras.cfg:32
 msgid "Empowered Myths"
-msgstr ""
+msgstr "Mitos empoderados"
 
 #. [era]: id=era_EOM_power_aoh_{ERA_OF_MYTHS_VERSION}
 #: Era_of_Myths/EOM_eras.cfg:47
 msgid "Empowered Heroes"
-msgstr ""
+msgstr "Héroes empoderados"
 
 #. [era]: id=era_EOM_recruit_{ERA_OF_MYTHS_VERSION}
 #: Era_of_Myths/EOM_eras.cfg:68
@@ -76,7 +76,7 @@ msgstr ""
 #: Era_of_Myths/factions/therians-RECRUIT.cfg:5
 #: Era_of_Myths/factions/therians-POWER.cfg:5
 msgid "Therian"
-msgstr "Therianos"
+msgstr "Theriano"
 
 #. [multiplayer_side]: id=RECRUIT_vampires, type=EOM_Blood_Apprentice
 #. [multiplayer_side]: id=EOM_vampires, type=EOM_Noble
@@ -386,12 +386,12 @@ msgstr ""
 #. [trait]: id=vampire
 #: Era_of_Myths/macros/traits.cfg:9
 msgid "vampire"
-msgstr ""
+msgstr "vampiro"
 
 #. [trait]: id=vampire
 #: Era_of_Myths/macros/traits.cfg:10
 msgid "female^vampire"
-msgstr ""
+msgstr "vampiresa"
 
 #. [trait]: id=vampire
 #: Era_of_Myths/macros/traits.cfg:11
@@ -1218,7 +1218,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Blasphemists, race=devling
 #: Era_of_Myths/units/devlings/e2_Blasphemists.cfg:5
 msgid "Blasphemists"
-msgstr ""
+msgstr "Blasfemos"
 
 #. [unit_type]: id=EOM_Blasphemists, race=devling
 #: Era_of_Myths/units/devlings/e2_Blasphemists.cfg:20
@@ -1244,7 +1244,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Abusers, race=devling
 #: Era_of_Myths/units/devlings/e4_Abusers.cfg:5
 msgid "Abusers"
-msgstr ""
+msgstr "Abusadores"
 
 #. [unit_type]: id=EOM_Abusers, race=devling
 #: Era_of_Myths/units/devlings/e4_Abusers.cfg:21
@@ -2057,7 +2057,7 @@ msgstr "Vampiro"
 #. [race]: id=vampire
 #: Era_of_Myths/units/vampires.cfg:20
 msgid "race+female^Vampire"
-msgstr ""
+msgstr "Vampiresa"
 
 #. [race]: id=vampire
 #: Era_of_Myths/units/vampires.cfg:21
@@ -3046,7 +3046,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Sky_Crystal, race=abstraction
 #: Era_of_Myths/units/windsong/b1_Sky_Crystal.cfg:5
 msgid "Sky Crystal"
-msgstr ""
+msgstr "Cristal del cielo"
 
 #. [unit_type]: id=EOM_Sky_Crystal, race=abstraction
 #: Era_of_Myths/units/windsong/b1_Sky_Crystal.cfg:36
@@ -3113,7 +3113,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Prophetess, race=windsong
 #: Era_of_Myths/units/windsong/c2_Prophet.cfg:5
 msgid "female^Prophetess"
-msgstr ""
+msgstr "Profetisa"
 
 #. [unit_type]: id=EOM_Prophetess, race=windsong
 #: Era_of_Myths/units/windsong/c2_Prophet.cfg:25
